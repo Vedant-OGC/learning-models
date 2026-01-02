@@ -70,6 +70,14 @@ All scripts are lightweight, readable, and beginner-friendly.
 git clone https://github.com/Vedant-OGC/learning-models.git
 cd learning-models
 ```
-2.Install dependencies:
+2. Install dependencies:
 ```bash
 pip install -r requirements.txt
+```
+(or install manually if preferred)
+
+3. Run any script:
+```bash
+python gradient_descent.py
+python tsne_pca.py
+
