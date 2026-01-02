@@ -69,3 +69,7 @@ All scripts are lightweight, readable, and beginner-friendly.
 ```bash
 git clone https://github.com/Vedant-OGC/learning-models.git
 cd learning-models
+```
+2.Install dependencies:
+```bash
+pip install -r requirements.txt
